@@ -1,14 +1,25 @@
 <h1 align="center">Hallo 👋, saya lalu doni setiawan</h1>
 <h3 align="center">Mahasiswa Universitas Bumigora Mataram</h3>
 
-<h3 align="left">Aktivitas</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laludonisetiawan&show_icons=true&locale=en&layout=compact" alt="laludonisetiawan" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laludonisetiawan&show_icons=true&locale=en" alt="laludonisetiawan" /></p>
+
+
+<h3 align="left">Tentang saya</h3>
+
+- 🌱 Saat ini sedang belajar **javascript-nodejs-expressjs-react-react-tailwinds-solidity**
+
+- 👯 Saya sedang mencari teman untuk berkolaborasi [portofolio](https://github.com/laludonisetiawan/portofolio.git)
+
+- 📫 Hubungi saya **laludonisetiawan@gmail.com**
+
+<img style="display: block; -webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://intenseclick.com/wp-content/uploads/2017/06/Play-Chrome-Dinosaur-Game.gif" width="500" height="150">
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laludonisetiawan&" alt="laludonisetiawan" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laludonisetiawan&show_icons=true&locale=en" alt="laludonisetiawan" /></p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laludonisetiawan&show_icons=true&locale=en&layout=compact" alt="laludonisetiawan" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laludonisetiawan&label=Profile%20views&color=0e75b6&style=flat" alt="laludonisetiawan" /> </p>
 
@@ -16,14 +27,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laludonisetiawan" alt="laludonisetiawan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/downy_dev" target="blank"><img src="https://img.shields.io/twitter/follow/downy_dev?logo=twitter&style=for-the-badge" alt="downy_dev" /></a> </p>
-
-
-
-- 🌱 Saat ini sedang belajar **javascript-nodejs-expressjs-react-react-tailwinds-solidity**
-
-- 👯 Saya sedang mencari teman untuk berkolaborasi [portofolio](https://github.com/laludonisetiawan/portofolio.git)
-
-- 📫 Hubungi saya **laludonisetiawan@gmail.com**
 
 
 
