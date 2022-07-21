@@ -11,8 +11,7 @@
 
 - 📫 Hubungi saya **laludonisetiawan@gmail.com**
 
-<img style="display: block; -webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://intenseclick.com/wp-content/uploads/2017/06/Play-Chrome-Dinosaur-Game.gif" width="500" height="150">
-
+<p><img align="center" src="https://intenseclick.com/wp-content/uploads/2017/06/Play-Chrome-Dinosaur-Game.gif" alt="laludonisetiawan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laludonisetiawan&" alt="laludonisetiawan" /></p>
 
