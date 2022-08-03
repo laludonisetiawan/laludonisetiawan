@@ -1,15 +1,13 @@
-<h1 align="center">Hallo 👋, saya lalu doni setiawan</h1>
-<h3 align="center">Mahasiswa Universitas Bumigora Mataram</h3>
+<h1 align="center">Hallo 👋, duilcom de dudorial </h1>
+<h3 align="center">korban tutorial india </h3>
 
 
 
 <h3 align="left">Tentang saya</h3>
 
-- 🌱 Saat ini sedang belajar **javascript-nodejs-expressjs-react-react-tailwinds-solidity**
+- 🌱 Saat ini sedang belajar **Blockchain technology**
 
 - 👯 Saya sedang mencari teman untuk berkolaborasi [portofolio](https://github.com/laludonisetiawan/portofolio.git)
-
-- 📫 Hubungi saya **laludonisetiawan@gmail.com**
 
 <p><img align="center" src="https://intenseclick.com/wp-content/uploads/2017/06/Play-Chrome-Dinosaur-Game.gif" alt="laludonisetiawan" /></p>
 
