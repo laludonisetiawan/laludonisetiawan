@@ -9,8 +9,6 @@
 
 - 👯 Saya sedang mencari teman untuk berkolaborasi [portofolio](https://github.com/laludonisetiawan/portofolio.git)
 
-<p><img align="center" src="https://intenseclick.com/wp-content/uploads/2017/06/Play-Chrome-Dinosaur-Game.gif" alt="laludonisetiawan" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laludonisetiawan&" alt="laludonisetiawan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laludonisetiawan&show_icons=true&locale=en" alt="laludonisetiawan" /></p>
