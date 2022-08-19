@@ -9,7 +9,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laludonisetiawan&" alt="laludonisetiawan" /></p>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laludonisetiawan&show_icons=true&locale=en&layout=compact" alt="laludonisetiawan" /></p>
-
-
