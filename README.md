@@ -1,6 +1,8 @@
 <h1 align="center">Hi, Tech Entushiast</h1>
 <hr/>
-<h5 align="center">Javascript enthusiast</h5>
+<h5 align="center">Repository is open for learning</h5>
+<h5 align="center">Happy exploring 🙂</h5>
+
 
 <p align="center">🌱</p>
 
